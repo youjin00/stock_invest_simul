@@ -8,7 +8,7 @@
 
 python + html5를 활용하여 웹 스크래핑을 하였습니다. 크롤링 라이브러리로는 requests를 활용하였고, pandas의 html 기능을 활용하여 웹 데이터를 추출하였습니다. 
 
-[stock_invest_simul/naver_financial_con.ipynb at main · youjin00/stock_invest_simul](https://github.com/youjin00/stock_invest_simul/blob/main/naver_financial_con.ipynb)
+![stock_invest_simul/naver_financial_con.ipynb at main · youjin00/stock_invest_simul](https://github.com/youjin00/stock_invest_simul/blob/main/naver_financial_con.ipynb)
 
 추출 후 결과물의 일부는 아래와 같습니다. 
 
@@ -28,7 +28,7 @@ python + html5를 활용하여 웹 스크래핑을 하였습니다. 크롤링 �
 
 ![14기 윤유진 6.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60c516c3-f4f5-4664-a9b3-c5fdfce32594/11a8f543-a28b-4494-98ce-12741d21f77d/14%E1%84%80%E1%85%B5_%E1%84%8B%E1%85%B2%E1%86%AB%E1%84%8B%E1%85%B2%E1%84%8C%E1%85%B5%E1%86%AB_6.png)
 
-[stock_invest_simul/final/screening/screening_update.ipynb at main · youjin00/stock_invest_simul](https://github.com/youjin00/stock_invest_simul/blob/main/final/screening/screening_update.ipynb)
+![stock_invest_simul/final/screening/screening_update.ipynb at main · youjin00/stock_invest_simul](https://github.com/youjin00/stock_invest_simul/blob/main/final/screening/screening_update.ipynb)
 
 실제 스크리닝을 시행할 때는, pykrx 모듈을 활용하였습니다.
 
@@ -40,11 +40,11 @@ python + html5를 활용하여 웹 스크래핑을 하였습니다. 크롤링 �
 
 ![backtest.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/60c516c3-f4f5-4664-a9b3-c5fdfce32594/7d2ca0bd-b294-4a56-bc9a-d1cd4428217d/backtest.png)
 
-[stock_invest_simul/final_code.ipynb at main · youjin00/stock_invest_simul](https://github.com/youjin00/stock_invest_simul/blob/main/final_code.ipynb)
+![stock_invest_simul/final_code.ipynb at main · youjin00/stock_invest_simul](https://github.com/youjin00/stock_invest_simul/blob/main/final_code.ipynb)
 
 전체 코드와 데이터는 아래 깃허브 사이트에 백업해 놓았습니다.
 
-[GitHub - youjin00/stock_invest_simul: DART 모의투자 전략 구현 코드](https://github.com/youjin00/stock_invest_simul/tree/main)
+![GitHub - youjin00/stock_invest_simul: DART 모의투자 전략 구현 코드](https://github.com/youjin00/stock_invest_simul/tree/main)
 
 ---
 
